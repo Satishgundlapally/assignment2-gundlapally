@@ -1,30 +1,21 @@
-# assignment2-gundlapally
-# satishreddygundlapally
-###### my favouite place in the world is paris
-
- Paris is unarguably one of the most beautiful cities in the world, **the capital of France**, of art and of fashion.**A Piece of Cake** 
-
- 
----
-## Ditections from Dollar general Maryville to Gateway arch , Missouri
-1. Dollar general,Maryville
-2. Take left on ElM St towards S Main St.
-3. Take a slight right near W Lincoln St 
-4. continue straight for 80 miles on the street
-    1. merge with highway no 71
-    2. pass on finish line gas station near St. joseph
-    3. keep straight for 50 miles .
-    4. Take exist 75 for kansas city road.
- 5. Now, we are on Dwight D. Eisenhower Hwy towards Gateway arch.
-    1. take a U Turn near wentzville crossroads
-    2. turn left go straight for 10 miles
-    3. pass on ramp road
-    4. take right 
-    5. go straight
-6. now, your destination is on Left.
-*  A Backpack
+# Dollar general,Maryville
+1.  Take left on ElM St towards S Main St.
+2. Take a slight right near W Lincoln St
+3. continue straight for 80 miles on the street
+4. merge with highway no 71
+   1. pass on finish line gas station near St. joseph
+   2. keep straight for 50 miles .
+   3. Take exist 75 for kansas city road.
+   4. Now, we are on Dwight D. Eisenhower Hwy towards Gateway arch.
+5. take a U Turn near wentzville crossroads
+   1. turn left go straight for 10 miles
+   2. pass on ramp road
+   3. take right
+   4. go straight
+5. now, your destination is on Left.
+* A Backpack
 * AIR Tight water proof bags
    * For storing food items
-   * laundry
+    * laundry
    * to keep personal documents, gadgets.
-*  REusable water tumbler
+* REusable water tumbler

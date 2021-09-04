@@ -32,4 +32,15 @@ The following table shows that receipes which are present in hyderabad.
 | sofiana biryani | hyderabad     | $5      |
 |Bagara eggmasala | kothapet      | $3      |
 |mutton dalcha    | secundrabad   | $ 6     |
-| chicken biryani | kphb          | $4      | 
+| chicken biryani | kphb          | $4      |
+
+------
+
+----
+
+# pithy quotes
+
+ >Creativity is intelligence having fun. —  *Albert Einstein*
+ >If you cannot do great things, do small things in a great way. – *Napoleon Hill*
+
+ ----

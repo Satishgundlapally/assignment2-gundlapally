@@ -45,7 +45,7 @@ The following table shows that receipes which are present in hyderabad.
 
  > Creativity is intelligence having fun. —  *Albert Einstein*
 
- > If you cannot do great things, do small things in a great way. – *Napoleon Hill*
+ >> If you cannot do great things, do small things in a great way. – *Napoleon Hill*
 
  ----
 

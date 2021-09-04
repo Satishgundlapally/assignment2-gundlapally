@@ -45,3 +45,45 @@ The following table shows that receipes which are present in hyderabad.
  > If you cannot do great things, do small things in a great way. – *Napoleon Hill*
 
  ----
+
+
+ ---
+ # code fencing
+
+A depth-first search (DFS) is an algorithm for traversing a finite graph. DFS visits the child vertices before visiting the sibling vertices; that is, it traverses the depth of any particular path before exploring its breadth. A stack (often the program's call stack via recursion) is generally used when implementing the algorithm
+'''
+ vector<vector<int>> adj;  // adjacency list representation
+int n; // number of nodes
+int s; // source vertex
+
+queue<int> q;
+vector<bool> used(n);
+vector<int> d(n), p(n);
+
+q.push(s);
+used[s] = true;
+p[s] = -1;
+while (!q.empty()) {
+    int v = q.front();
+    q.pop();
+    for (int u : adj[v]) {
+        if (!used[u]) {
+            used[u] = true;
+            q.push(u);
+            d[u] = d[v] + 1;
+            p[u] = v;
+        }
+    }    
+}
+
+} else {
+    vector<int> path;
+    for (int v = u; v != -1; v = p[v])
+        path.push_back(v);
+    reverse(path.begin(), path.end());
+    cout << "Path: ";
+    for (int v : path)
+        cout << v << " ";
+}
+'''
+code: https://cp-algorithms.com/graph/breadth-first-search.html#toc-tgt-0    

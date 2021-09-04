@@ -40,7 +40,8 @@ The following table shows that receipes which are present in hyderabad.
 
 # pithy quotes
 
- >Creativity is intelligence having fun. —  *Albert Einstein*
- >If you cannot do great things, do small things in a great way. – *Napoleon Hill*
+ > Creativity is intelligence having fun. —  *Albert Einstein*
+
+ > If you cannot do great things, do small things in a great way. – *Napoleon Hill*
 
  ----

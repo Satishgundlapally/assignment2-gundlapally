@@ -19,3 +19,17 @@
     * laundry
    * to keep personal documents, gadgets.
 * REusable water tumbler
+
+
+------
+
+# TABLES
+
+The following table shows that receipes which are present in hyderabad.
+
+| food            | location      |  amount |
+| ---             | ---           | ---:    |
+| sofiana biryani | hyderabad     | $5      |
+|Bagara eggmasala | kothapet      | $3      |
+|mutton dalcha    | secundrabad   | $ 6     |
+| chicken biryani | kphb          | $4      | 

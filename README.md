@@ -37,7 +37,7 @@ The following table shows that receipes which are present in hyderabad.
 |mutton dalcha    | secundrabad   | $ 6     |
 | chicken biryani | kphb          | $4      |
 
-------
+
 
 ----
 
@@ -50,10 +50,13 @@ The following table shows that receipes which are present in hyderabad.
  ----
 
 
- ---
+ 
  # code fencing
 
-A depth-first search (DFS) is an algorithm for traversing a finite graph. DFS visits the child vertices before visiting the sibling vertices; that is, it traverses the depth of any particular path before exploring its breadth. A stack (often the program's call stack via recursion) is generally used when implementing the algorithm
+A In computer science, graph traversal (also known as graph search) refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
+
+SOURCE CODE: https://ds1-iiith.vlabs.ac.in/exp/depth-first-search/graph-traversals.html
+
 '''
  vector<vector<int>> adj;  // adjacency list representation
 int n; // number of nodes

@@ -53,30 +53,46 @@ The following table shows that receipes which are present in hyderabad.
  
  # code fencing
 
-A In computer science, graph traversal (also known as graph search) refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
+>  A In computer science, graph traversal (also known as graph search) refers to the process of visiting (checking and/or updating) each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal.
+
 
 SOURCE CODE: https://ds1-iiith.vlabs.ac.in/exp/depth-first-search/graph-traversals.html
 
 '''
  vector<vector<int>> adj;  // adjacency list representation
+
 int n; // number of nodes
+
 int s; // source vertex
 
 queue<int> q;
+
 vector<bool> used(n);
+
 vector<int> d(n), p(n);
 
 q.push(s);
+
 used[s] = true;
+
 p[s] = -1;
+
 while (!q.empty()) {
+
     int v = q.front();
+
     q.pop();
+
     for (int u : adj[v]) {
+
         if (!used[u]) {
+
             used[u] = true;
+
             q.push(u);
+
             d[u] = d[v] + 1;
+
             p[u] = v;
         }
     }    
@@ -84,11 +100,17 @@ while (!q.empty()) {
 
 } else {
     vector<int> path;
+
     for (int v = u; v != -1; v = p[v])
+
         path.push_back(v);
+
     reverse(path.begin(), path.end());
+
     cout << "Path: ";
+
     for (int v : path)
+    
         cout << v << " ";
 }
 '''
